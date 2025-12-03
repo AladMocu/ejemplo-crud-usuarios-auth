@@ -18,8 +18,7 @@ export function LoginForm({ onSubmit, error }) {
         Iniciar sesión
       </h1>
       <p className="text-xs text-slate-500">
-        Usa un usuario creado en el CRUD o los usuarios de prueba indicados en
-        el README.
+        Usa tu usuario.
       </p>
 
       {error && (
