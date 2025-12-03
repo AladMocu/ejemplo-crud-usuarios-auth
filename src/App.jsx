@@ -22,7 +22,7 @@ function Layout() {
 
   return (
     <div className="min-h-screen flex flex-col bg-slate-100">
-      <header className="bg-slate-900 text-slate-100 shadow">
+      <header className="bg-green-950 text-slate-100 shadow">
         <nav className="container mx-auto flex items-center justify-between px-4 py-3">
           <div className="flex items-center gap-3">
             <span className="text-lg font-semibold">CRUD + Auth</span>
